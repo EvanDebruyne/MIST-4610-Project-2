@@ -1,8 +1,8 @@
 # MIST-4610-Project-2
-Team Name:
+# Team Name:
 21479 Group 3
 
-Team Members:
+# Team Members:
 Harrison Goldstein: https://github.com/harrisongold1210
 Fiza Bhayani: https://github.com/fizab2329
 Ethan Denbrok: https://github.com/EvanDebruyne
