@@ -3,11 +3,11 @@
 21479 Group 3
 
  Team Members:
-Harrison Goldstein: https://github.com/harrisongold1210
-Fiza Bhayani: https://github.com/fizab2329
-Ethan Denbrok: https://github.com/EvanDebruyne
-Luke Lambert: https://github.com/lhl88422
-Raul Fernandez: https://github.com/rjf02
+- Harrison Goldstein: https://github.com/harrisongold1210
+- Fiza Bhayani: https://github.com/fizab2329
+- Ethan Denbrok: https://github.com/EvanDebruyne
+- Luke Lambert: https://github.com/lhl88422
+- Raul Fernandez: https://github.com/rjf02
 
 # Dataset Description
 The dataset is sourced from incidents of crime in the City of Los Angeles dating back to 2020. The data is transcribed from original crime reports that are typed on paper.There are 847726 columns and 28 rows.
